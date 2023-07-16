@@ -1,0 +1,4 @@
+com/yustunay/clients/notification/NotificationRequest.class
+com/yustunay/clients/notification/NotificationClient.class
+com/yustunay/clients/fraud/FraudCheckResponse.class
+com/yustunay/clients/fraud/FraudClient.class
